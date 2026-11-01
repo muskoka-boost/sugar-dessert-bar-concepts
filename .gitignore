@@ -1,0 +1,6 @@
+shot-*.png
+research/
+tools_shot.py
+*.log
+ov_check.py
+ov_mobile.jpg
